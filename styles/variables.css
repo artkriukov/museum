@@ -1,0 +1,14 @@
+:root {
+  --color-text-primary: #111111;
+  --color-text-inverse: #ffffff;
+
+  /* Optional: background/surface if нужно */
+  --bg-dark: #030303;
+  --dark-red: #710707;
+  --gold: #9d8665;
+
+  --fs-title: 32px;
+  --fs-subtitle: 28px;
+  --fs-lead: 22px;
+  --fs-body: 18px;
+}
